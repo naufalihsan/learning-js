@@ -5,10 +5,12 @@ This tutorial shows you how to add a simple Google map with Directions Service t
 It suits people with beginner or intermediate knowledge of HTML and CSS, and a little knowledge
 of JavaScript.
 
+
+Generate API KEY  : <https://developers.google.com/maps/documentation/javascript/get-api-key>
+
 Adapted from : <https://developers.google.com/maps/documentation/javascript>
 
 ### Screenshoots
 ![alt text](docs/display.PNG)
 
 ![alt text](docs/result.PNG)	
-
